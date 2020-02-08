@@ -6,43 +6,39 @@ page_sections:
 - template: simple-header
   block: header-3
   logo: "/uploads/2020/02/08/rally.svg"
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: <strong>John Daniel is running for ASB Rally Commissioner</strong><span
-    class="light"> </span><strong><span class="light">(again)</span></strong><span
-    class="light">.</span>
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  image:
+    image: "/uploads/2020/02/08/thumbsup.png"
+    alt_text: John Daniel giving a thumbs up.
   content: I don't just talk the talk, I type the type to deliver the best rally experiences
     on campus. Making sure every rally isn't just comprehensively planned, it's also
     delivered <em>with more energy than nuclear power plants.</em> That's not rocket
     science, that's a John Daniel guarantee!
+  headline: "<strong>John Daniel is running for Rally Commissioner (again).</strong>"
+  cta:
+    enabled: true
+    button_text: Watch the announcement!
+    url: instagram.com/norombabajd
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: "<strong>Keeping Rallies on Schedule.</strong>"
+  content: 'Made from scratch, every rally has been planned comprehensively, down
+    to the sales tax and balloon colors and quantities. '
   media:
-    image: "/uploads/2020/02/08/thumbsup.png"
-    alt_text: John Daniel giving a thumbs up.
-- template: 1-column-text
-  block: one-column-1
-  headline: 16 Fully Responsive Design Blocks
-  content: "The Design Blocks can be used without Forestry but to harness the power
-    of Blocks we recommend using Forestry. Once the site is imported you can immediately
-    create new sites and make them fully customizable. \U0001F447"
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2018/06/21/theme.png"
-  caption: All Available Blocks
-- template: detail-content
-  block: text-1
-  headline: Steps to Build a Site!
-  content: <p>uBuild is an open-source Jekyll based theme that doubles as a builder
-    tool inside the Forestry content manager. It's easy to get started!</p><ol><li><p>Fork
-    the <a href="https://github.com/forestryio/ubuild-jekyll">repo</a> and import
-    the site into <a href="https://forestry.io/">Forestry</a> (or use <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks#even-quicker-start">our
-    magic button</a>).</p></li><li><p>Click on 'Add New' in Forestry and select the
-    Page-Builder template.</p></li><li><p>Add and customize the available Blocks and
-    preview them as you go along.</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
-    article</a> and create your own Blocks.</p></li></ol>
+    image: "/uploads/2020/02/08/rallyorganiztion.png"
+    alt_text: Screenshot of Rally Packet
+- template: signup-bar
+  block: cta-bar
+  email_recipient: norombabajd@gmail.com
+  content: Join me, so together, we can keep creating amazing memories, and voice-cracking
+    moments at every rally!
 - template: simple-footer
   block: footer-1
-  content: Hello world! ❤︎
+  content: "<strong>Paid for by the John Daniel Election Committee<br><em>(but in
+    reality, it's just John Daniel)</em></strong>"
 
 ---
 foo bar
