@@ -8,26 +8,17 @@ page_sections:
   logo: "/uploads/2020/02/08/rally.svg"
 - template: hero-banner-w-image
   block: hero-2
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  headline: "<strong>John Daniel</strong> for Rally Commissioner"
+  content: I don't just talk the talk, I type the type to make sure every rally has
+    you feeling great!
   cta:
-    enabled: true
+    enabled: false
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
-- template: content-feature
-  block: feature-1
-  media_alignment: Left
-  headline: <strong>John Daniel<span class="light"> </span></strong><span class="light">for
-    Rally Commissioner</span>
-  content: 'He can talk the talk, and type the type. '
-  media:
-    image: "/uploads/2018/06/21/blocks-split.png"
-    alt_text: uBuild Blocks Mock-Up
+  background_image: "/uploads/2020/02/08/thumbsup.001.png"
 - template: content-feature
   block: feature-1
   media_alignment: Right
