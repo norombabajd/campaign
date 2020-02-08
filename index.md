@@ -3,9 +3,15 @@ layout: blocks
 title: ''
 date: 2017-11-22T23:00:00.000+00:00
 page_sections:
-- template: simple-header
-  block: header-3
+- template: navigation-header-w-button
+  block: header-2
   logo: "/uploads/2020/02/08/rally.svg"
+  cta:
+    url: https://instagram.com/norombabajd
+    button_text: Campaign for John
+  navigation:
+  - link_text: Profile
+    link: https://norombabajd.com/profile
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
@@ -21,6 +27,10 @@ page_sections:
     enabled: true
     button_text: Watch the announcement!
     url: instagram.com/norombabajd
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2020/02/08/winterrally.jpg"
+  caption: An unstoppable duo.
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -30,11 +40,6 @@ page_sections:
   media:
     image: "/uploads/2020/02/08/rallyorganiztion.png"
     alt_text: Screenshot of Rally Packet
-- template: signup-bar
-  block: cta-bar
-  email_recipient: norombabajd@gmail.com
-  content: Join me, so together, we can keep creating amazing memories, and voice-cracking
-    moments at every rally!
 - template: simple-footer
   block: footer-1
   content: "<strong>Paid for by the John Daniel Election Committee<br><em>(but in
