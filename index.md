@@ -75,6 +75,10 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
+- template: navigation-header
+  block: header-1
+  logo: "/uploads/2020/02/08/rallylogo.001.png"
+  navigation: []
 
 ---
 foo bar
