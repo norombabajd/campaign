@@ -38,8 +38,16 @@ page_sections:
   content: 'Made from scratch, every rally has been planned comprehensively, down
     to the sales tax and balloon colors and quantities. '
   media:
-    image: "/uploads/2020/02/08/rallyorganiztion.png"
+    image: "/uploads/2020/02/08/winterrally.png"
     alt_text: Screenshot of Rally Packet
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Take me anywhere!
+  media:
+    image: "/uploads/2020/02/08/IMG_3654.JPG"
+    alt_text: Snapcode
+  content: Scan the Snap Filter, and have me at the palm of your fingertips!
 - template: simple-footer
   block: footer-1
   content: "<strong>Paid for by the John Daniel Election Committee<br><em>(but in
