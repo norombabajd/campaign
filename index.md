@@ -6,29 +6,19 @@ page_sections:
 - template: simple-header
   block: header-3
   logo: "/uploads/2020/02/08/rally.svg"
-- template: hero-banner-w-image
-  block: hero-2
-  headline: "<strong>John Daniel</strong> for Rally Commissioner"
-  content: I don't just talk the talk, I type the type to make sure every rally has
-    you feeling great!
-  cta:
-    enabled: false
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
-  image:
-    image: "/uploads/2020/02/08/thumbsup.001.png"
-    alt_text: John Daniel giving a thumbs up.
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can easily be edited in
-    Forestry's UI.
+  headline: <strong>John Daniel is running for ASB Rally Commissioner</strong><span
+    class="light"> </span><strong><span class="light">(again)</span></strong><span
+    class="light">.</span>
+  content: I don't just talk the talk, I type the type to deliver the best rally experiences
+    on campus. Making sure every rally isn't just comprehensively planned, it's also
+    delivered <em>with more energy than nuclear power plants.</em> That's not rocket
+    science, that's a John Daniel guarantee!
   media:
-    image: "/uploads/2018/06/21/edit.gif"
-    alt_text: Customize Blocks
+    image: "/uploads/2020/02/08/thumbsup.001.png"
+    alt_text: John Daniel giving a thumbs up.
 - template: 1-column-text
   block: one-column-1
   headline: 16 Fully Responsive Design Blocks
