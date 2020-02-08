@@ -17,7 +17,7 @@ page_sections:
     delivered <em>with more energy than nuclear power plants.</em> That's not rocket
     science, that's a John Daniel guarantee!
   media:
-    image: "/uploads/2020/02/08/thumbsup.001.png"
+    image: "/uploads/2020/02/08/thumbsup.png"
     alt_text: John Daniel giving a thumbs up.
 - template: 1-column-text
   block: one-column-1
