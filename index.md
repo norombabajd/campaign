@@ -5,7 +5,7 @@ date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2020/02/08/rally.svg"
+  logo: "/uploads/2020/02/09/rallylogo.001.png"
   cta:
     url: https://instagram.com/norombabajd
     button_text: Campaign for John
@@ -18,12 +18,11 @@ page_sections:
   image:
     image: "/uploads/2020/02/08/thumbsup.png"
     alt_text: John Daniel giving a thumbs up.
-  content: "<strong>It's me, John Daniel Norombaba. </strong>One of the most chaotic,
-    and yet organized and consistent spirit on Frontier's campus. I'm running again
-    for rally commissioner because, I want to keep delivering rallies <em>with more
-    energy than any nuclear power plant combined.</em> That's not rocket science,
-    that's a John Daniel guarantee!"
-  headline: "<strong>Let's Run for Rally Commissioner, Again.</strong>"
+  content: I don't just talk the talk, I type the type to deliver the best rally experiences
+    on campus. Making sure every rally isn't just comprehensively planned, it's also
+    delivered <em>with more energy than nuclear power plants.</em> That's not rocket
+    science, that's a John Daniel guarantee!
+  headline: "<strong>John Daniel is running for Rally Commissioner (again).</strong>"
   cta:
     enabled: true
     button_text: Watch the announcement!
@@ -35,19 +34,16 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: "<strong>I don't just talk the talk, I type the type.</strong>"
-  content: Since I became rally commissioner, every rally has started with this. It's
-    not just made to work out, it's made with the intent for you to have the best
-    time at a rally. Comprehensive, organized, and ready for admin-approval. <strong>Every.
-    Single. Time.</strong> And if something needs to be added in, you betcha' I can
-    make that happen, we can make that happen!
+  headline: "<strong>Keeping Rallies on Schedule.</strong>"
+  content: 'Made from scratch, every rally has been planned comprehensively, down
+    to the sales tax and balloon colors and quantities. '
   media:
     image: "/uploads/2020/02/08/winterrally.png"
     alt_text: Screenshot of Rally Packet
 - template: simple-footer
   block: footer-1
-  content: <strong>Paid for by the John Daniel Election Committee<br><em>(but in reality,
-    it's just John Daniel)<br></em></strong><a href="https://norombabajd.com" title="norombabajd.com">norombabajd.com</a>
+  content: "<strong>Paid for by the John Daniel Election Committee<br><em>(but in
+    reality, it's just John Daniel)</em></strong>"
 
 ---
 foo bar
