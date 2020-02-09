@@ -5,7 +5,7 @@ date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2020/02/09/rallylogo.001.png"
+  logo: "/uploads/2020/02/09/Untitled 2.001.png"
   cta:
     url: https://instagram.com/norombabajd
     button_text: Campaign for John
