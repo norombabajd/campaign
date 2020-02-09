@@ -5,13 +5,11 @@ date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2020/02/08/rally.svg"
+  logo: "/uploads/2020/02/09/Untitled 2.001.png"
   cta:
     url: https://instagram.com/norombabajd
     button_text: Campaign for John
-  navigation:
-  - link_text: Profile
-    link: https://norombabajd.com/profile
+  navigation: []
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
