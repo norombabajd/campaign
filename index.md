@@ -18,11 +18,12 @@ page_sections:
   image:
     image: "/uploads/2020/02/08/thumbsup.png"
     alt_text: John Daniel giving a thumbs up.
-  content: It's me, John Daniel Norombaba. The most consistent, organized, and yet
-    chaotic spirit on Frontier's campus. I'm running again for rally commissioner
-    because, I want to keep delivering rallies <em>with more energy than nuclear power
-    plants.</em> That's not rocket science, that's a John Daniel guarantee!
-  headline: "<strong>John Daniel is running for Rally Commissioner (again).</strong>"
+  content: "<strong>It's me, John Daniel Norombaba. </strong>One of the most chaotic,
+    and yet organized and consistent spirit on Frontier's campus. I'm running again
+    for rally commissioner because, I want to keep delivering rallies <em>with more
+    energy than any nuclear power plant combined.</em> That's not rocket science,
+    that's a John Daniel guarantee!"
+  headline: "<strong>Let's Run for Rally Commissioner, Again.</strong>"
   cta:
     enabled: true
     button_text: Watch the announcement!
