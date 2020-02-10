@@ -9,7 +9,7 @@ page_sections:
   logo: "/uploads/2020/02/09/Untitled 2.001.png"
   cta:
     url: https://votejohndaniel.com
-    button_text: Read More.
+    button_text: Read More
   navigation:
   - link: "/"
     link_text: Home
@@ -17,15 +17,11 @@ page_sections:
   block: hero-2
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
   image:
-    image: "/uploads/2020/02/08/thumbsup.png"
-    alt_text: John Daniel giving a thumbs up.
-  content: It's me, John Daniel Norombaba, and I encourage you to <strong>save a photo,
-    and post a photo</strong>! The most consistent, organized, and yet chaotic spirit
-    on Frontier's campus who wants to keep delivering rallies <em>with more energy
-    than nuclear power plants.</em> That's not rocket science, that's a John Daniel
-    guarantee!
-  headline: "<strong>John Daniel is running for Rally Commissioner (again), and you
-    can help!</strong>"
+    image: "/uploads/2020/02/10/takeaphoto.001.png"
+    alt_text: John Daniel taking a photo with his phone case
+  content: Rallies deserve to stay hyped, that's not rocket science, that's a John
+    Daniel guarantee, so please, save a photo, and post it to your stories!
+  headline: "<strong>Save a photo, and post the photo!</strong>"
   cta:
     enabled: true
     button_text: Watch the Announcement!
