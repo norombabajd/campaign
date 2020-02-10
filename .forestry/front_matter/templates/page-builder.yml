@@ -32,6 +32,7 @@ fields:
   - simple-footer
   - 4-column-footer
   - text-only-hero-banner
+  - text-1
 pages:
 - campaign.md
 - index.md
