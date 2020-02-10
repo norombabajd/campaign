@@ -34,6 +34,5 @@ fields:
   - text-only-hero-banner
   - text-1
 pages:
-- campaign.md
 - index.md
 - throwback.md
