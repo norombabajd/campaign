@@ -1,8 +1,8 @@
 ---
 layout: blocks
 title: Profile
-permalink: /profile
-date: 2020-02-10 00:42:00 +0000
+permalink: "/profile"
+date: 2020-02-10T00:42:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
