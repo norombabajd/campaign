@@ -7,8 +7,8 @@ page_sections:
   block: header-2
   logo: "/uploads/2020/02/09/Untitled 2.001.png"
   cta:
-    url: https://votejohndaniel.com/campaign
-    button_text: Campaign for John
+    url: https://www.instagram.com/norombabajd
+    button_text: Watch the Announcement!
   navigation: []
 - template: hero-banner-w-image
   block: hero-2
