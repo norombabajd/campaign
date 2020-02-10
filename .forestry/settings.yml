@@ -7,11 +7,11 @@ sections:
 - type: heading
   label: Pages
 - type: document
-  path: _pages/profile.md
-  label: Profile
-- type: document
   path: index.md
-  label: Homepage
+  label: index.md
+- type: document
+  path: _pages/profile.md
+  label: _pages/profile.md
 - type: heading
   label: Settings
 - type: document
