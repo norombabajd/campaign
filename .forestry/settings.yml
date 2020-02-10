@@ -4,23 +4,21 @@ auto_deploy: true
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
-  path: FORESTRY-README.md
-  label: Welcome - First Steps
-  read_only: true
-- type: jekyll-posts
-  label: Posts
-  create: all
-- type: directory
-  path: ''
+- type: heading
   label: Pages
-  create: all
-  match: "*.md"
-  exclude: "*README.md"
-  new_doc_ext: md
+- type: document
+  path: _pages/profile.md
+  label: Profile
+  match: "**/*"
+- type: document
+  path: index.md
+  label: Homepage
+  match: "**/*"
+- type: heading
+  label: Settings
 - type: document
   path: _config.yml
-  label: Config
+  label: _config.yml
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
