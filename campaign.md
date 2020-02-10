@@ -15,9 +15,12 @@ page_sections:
     link_text: Home
 - template: text-only-hero-banner
   block: hero-1
-  heading: "<strong>Want to Campaign for John? It's easy!<br></strong>Save any of
-    the photos below, and repost them on your Stories! Tag me, and maybe I'll send
-    some love back!"
+  heading: "<strong>Want to Campaign for John? It's easy!</strong>"
+- template: text-1
+  block: text-1
+  content: "<p>Grab your favorite campaign postcard, save it, and and repost them
+    on your Stories! Tag me, and keep the train going! <em>choo-choo!</em></p>"
+  headline: Here's what you can do!
 - template: 2-column-media-element
   block: media-2
   image_1:
