@@ -1,6 +1,7 @@
 ---
 layout: blocks
 title: Profile
+permalink: /profile
 date: 2020-02-10 00:42:00 +0000
 page_sections:
 - template: navigation-header-w-button
