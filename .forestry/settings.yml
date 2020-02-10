@@ -10,8 +10,8 @@ sections:
   path: index.md
   label: index.md
 - type: document
-  path: _pages/profile.md
-  label: _pages/profile.md
+  path: profile.md
+  label: profile.md
 - type: heading
   label: Settings
 - type: document
