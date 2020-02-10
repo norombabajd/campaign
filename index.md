@@ -23,8 +23,8 @@ page_sections:
   headline: "<strong>John Daniel is running for Rally Commissioner (again).</strong>"
   cta:
     enabled: true
-    button_text: Watch the announcement!
-    url: instagram.com/norombabajd
+    button_text: Campaign for John Daniel!
+    url: https://votejohndaniel.com/campaign
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2020/02/08/winterrally.jpg"
