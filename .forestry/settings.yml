@@ -13,6 +13,10 @@ sections:
   path: campaign.md
   label: campaign.md
 - type: document
+  path: throwback.md
+  label: throwback.md
+  match: "**/*"
+- type: document
   path: profile.md
   label: profile.md
 - type: heading
