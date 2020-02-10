@@ -11,11 +11,11 @@ page_sections:
     url: https://instagram.com/norombabajd
     button_text: Campaign for John
   navigation:
-  - link: Home
-    link_text: "/"
+  - link: "/"
+    link_text: Home
 - template: text-only-hero-banner
   block: hero-1
-  heading: "<strong>Oh, he's definitely qualified.</strong>"
+  heading: "<strong>This page isn't complete yet, but I'm glad you found it!</strong>"
 - template: simple-footer
   block: footer-1
   content: <strong>Paid for by the John Daniel Election Committee<br><em>(but in reality,
