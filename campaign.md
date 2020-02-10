@@ -54,7 +54,7 @@ page_sections:
   media:
     image: "/uploads/2020/02/08/winterrally.png"
     alt_text: ''
-  headline: <strong><span class="light">I don't just talk the talk, I type the type.</span></strong>
+  headline: <strong><span class="light">Talking the Talk, and Typing the Type.</span></strong>
 - template: simple-footer
   block: footer-1
   content: <strong>Paid for by the John Daniel Election Committee<br><em>(but in reality,
