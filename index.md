@@ -18,7 +18,7 @@ page_sections:
     comprehensive and energetic like the rallies. <strong>Come back soon!</strong>
   headline: "<strong>John Daniel is considering to run for Rally Commissioner (again).</strong>"
   cta:
-    enabled: true
+    enabled: false
     button_text: Campaign for John Daniel!
     url: https://votejohndaniel.com/campaign
 - template: full-width-media-element
