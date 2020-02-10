@@ -12,7 +12,6 @@ sections:
 - type: document
   path: campaign.md
   label: campaign.md
-  match: "**/*"
 - type: document
   path: profile.md
   label: profile.md
