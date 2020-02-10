@@ -29,19 +29,43 @@ page_sections:
 - template: 2-column-media-element
   block: media-2
   image_1:
-    image: "/uploads/2020/02/10/rallyads.004.jpeg"
-    caption: Being in Light Mode Burns as Much as not Voting for John Daniel.
+    image: "/uploads/2020/02/10/rallyinthebag.jpeg"
+    caption: The wind’s in his hair, but the rallies are in the bag with John Daniel.
   image_2:
-    image: "/uploads/2020/02/10/rallyads.005.jpeg"
-    caption: Energy like an LED Light Bulb, Can Last Longer than a Year.
+    image: "/uploads/2020/02/10/onlykeepsongrowing.jpeg"
+    caption: The growing boy keeps growing, and he’ll keep on growing.
 - template: 2-column-media-element
   block: media-2
   image_1:
-    image: "/uploads/2020/02/10/rallyads.001.jpeg"
-    caption: My dreams to be rally commissioner again are as big as my nose.
+    image: "/uploads/2020/02/10/savetherallies.jpeg"
+    caption: He’s not just saving the turtles, he’s saving the rallies.
   image_2:
-    image: "/uploads/2020/02/10/rallyads.003.jpeg"
-    caption: The growing boy keeps growing.
+    image: "/uploads/2020/02/10/arallyicon.jpeg"
+    caption: John Daniel is not only a fashion icon, he’s your rally icon.
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2020/02/10/dreambigasmynose.jpeg"
+    caption: My dream to be rally commissioner again is as big as my nose.
+  image_2:
+    image: "/uploads/2020/02/10/friendsofgummy.jpeg"
+    caption: A gummy worm’s best friend is John Daniel, and he’s running (again).
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2020/02/10/onlyjohndaniel.jpeg"
+    caption: It doesn’t take a doctor to plan a rally, it only takes John Daniel.
+  image_2:
+    image: "/uploads/2020/02/10/typethetype.jpeg"
+    caption: 'I don’t just talk the talk, I type the type (the rallies up). '
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2020/02/10/lightmodeburns.jpeg"
+    caption: Being in Light Mode Burns as Much as not Voting for John Daniel.
+  image_2:
+    image: "/uploads/2020/02/10/energylikeanled.jpeg"
+    caption: Energy like an LED Light Bulb, Can Last Longer than a Year.
 - template: content-feature
   block: feature-1
   media_alignment: Right
