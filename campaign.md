@@ -9,7 +9,7 @@ page_sections:
   logo: "/uploads/2020/02/09/Untitled 2.001.png"
   cta:
     url: https://instagram.com/norombabajd
-    button_text: Campaign for John
+    button_text: Watch the Announcement!
   navigation:
   - link: "/"
     link_text: Home
