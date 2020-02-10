@@ -44,6 +44,17 @@ page_sections:
   image_2:
     image: "/uploads/2020/02/10/rallyads.003.jpeg"
     caption: The growing boy keeps growing.
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  content: "<strong>If you think these ads are cool, wait till you see what I can
+    do with a rally pre-plan. </strong>Because ever since I became rally commissioner,
+    every rally has started with this. Fun that's comprehensive, organized, and always
+    ready for admin-approval. "
+  media:
+    image: "/uploads/2020/02/08/winterrally.png"
+    alt_text: ''
+  headline: <strong><span class="light">I don't just talk the talk, I type the type.</span></strong>
 - template: simple-footer
   block: footer-1
   content: <strong>Paid for by the John Daniel Election Committee<br><em>(but in reality,
