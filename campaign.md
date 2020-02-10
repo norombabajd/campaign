@@ -8,8 +8,8 @@ page_sections:
   block: header-2
   logo: "/uploads/2020/02/09/Untitled 2.001.png"
   cta:
-    url: https://votejohndaniel.com
-    button_text: Read More
+    url: instagram.com/norombabajd
+    button_text: Watch the Announcement!
   navigation:
   - link: "/"
     link_text: Home
@@ -26,8 +26,8 @@ page_sections:
   headline: "<strong>Save a photo, post a photo!</strong>"
   cta:
     enabled: true
-    button_text: Watch the Announcement!
-    url: https://instagram.com/norombabajd
+    button_text: Go Back to the Homepage!
+    url: https://votejohndaniel.com
 - template: 2-column-media-element
   block: media-2
   image_1:
