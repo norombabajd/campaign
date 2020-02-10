@@ -20,8 +20,10 @@ page_sections:
     image: "/uploads/2020/02/10/takeaphoto.001.png"
     alt_text: John Daniel taking a photo with his phone case
   content: Rallies deserve to stay hyped, that's not rocket science, that's a John
-    Daniel guarantee, so please, save a photo, and post it to your stories!
-  headline: "<strong>Save a photo, and post the photo!</strong>"
+    Daniel guarantee. Take a look at the ad gallery, and feel free to post your favorite
+    one. <a href="https://votejohndaniel.com/throwback" title="Looking for the old
+    ones?">Looking for the old ones?</a>
+  headline: "<strong>Save a photo, post a photo!</strong>"
   cta:
     enabled: true
     button_text: Watch the Announcement!
