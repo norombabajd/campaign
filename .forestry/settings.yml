@@ -4,6 +4,13 @@ auto_deploy: true
 admin_path: ''
 webhook_url: 
 sections:
+- type: directory
+  path: ''
+  label: "/"
+  create: all
+  match: "**/*"
+  templates:
+  - page-builder
 - type: heading
   label: Pages
 - type: document
