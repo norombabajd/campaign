@@ -7,7 +7,6 @@ sections:
 - type: jekyll-pages
   label: "/"
   create: all
-  match: "**/*"
   templates:
   - page-builder
 - type: heading
