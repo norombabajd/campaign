@@ -3,21 +3,26 @@ layout: blocks
 title: Home
 date: 2020-02-10T00:42:00.000+00:00
 page_sections:
-- template: simple-header
-  block: header-3
+- template: navigation-header-w-button
+  block: header-2
   logo: "/uploads/2020/02/09/Untitled 2.001.png"
+  cta:
+    url: https://www.instagram.com/norombabajd
+    button_text: Watch the Announcement!
+  navigation: []
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
   image:
-    image: "/uploads/2020/02/10/iamold.001.png"
-    alt_text: John Daniel holding an Apple TV remote that represents a microphone.
-  content: It's me, John Daniel Norombaba. I'm currently in the process of filling
-    out paperwork, re-launching my election committee, and creating a campaign as
-    comprehensive and energetic like the rallies. <strong>Come back soon!</strong>
-  headline: "<strong>John Daniel is considering to run for Rally Commissioner (again).</strong>"
+    image: "/uploads/2020/02/08/thumbsup.png"
+    alt_text: John Daniel giving a thumbs up.
+  content: It's me, John Daniel Norombaba. The most consistent, organized, and yet
+    chaotic spirit on Frontier's campus. I'm running again for rally commissioner
+    because, I want to keep delivering rallies <em>with more energy than nuclear power
+    plants.</em> That's not rocket science, that's a John Daniel guarantee!
+  headline: "<strong>John Daniel is running for Rally Commissioner (again).</strong>"
   cta:
-    enabled: false
+    enabled: true
     button_text: Campaign for John Daniel!
     url: https://votejohndaniel.com/campaign
 - template: full-width-media-element
@@ -26,7 +31,7 @@ page_sections:
   caption: An unstoppable duo.
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   headline: "<strong>I don't just talk the talk, I type the type.</strong>"
   content: Since I became rally commissioner, every rally has started with this. It's
     not just made to work out, it's made with the intent for you to have the best
