@@ -25,6 +25,39 @@ page_sections:
 - template: 2-column-media-element
   block: media-2
   image_1:
+    image: "/uploads/2020/02/15/justkeepvoting.jpeg"
+    caption: Just keep voting, just keep voting (for John Daniel, duh).
+  image_2:
+    image: "/uploads/2020/02/15/compactbutpacked.jpeg"
+    caption: Compact, and yet, he’s packed with so much energy.
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2020/02/15/stillflexible.jpeg"
+    caption: He’s still flexible for Frontier.
+  image_2:
+    image: "/uploads/2020/02/15/zumbayourway.jpeg"
+    caption: Zumba your way to the polls!
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2020/02/15/alwaysontherun.jpeg"
+    caption: He’s always on the run to deliver the best rallies.
+  image_2:
+    image: "/uploads/2020/02/15/trainedforlivesandrallies.jpeg"
+    caption: Trained to save lives, and trained to make good rallies.
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2020/02/15/engineeringrallies.jpeg"
+    caption: Engineering the perfect rallies.
+  image_2:
+    image: "/uploads/2020/02/15/easiersaidthandone.jpeg"
+    caption: 'It takes a lot to make a decision like this, but this one is easier
+      said than done. '
+- template: 2-column-media-element
+  block: media-2
+  image_1:
     image: "/uploads/2020/02/10/rallyinthebag.jpeg"
     caption: The wind’s in his hair, but the rallies are in the bag with John Daniel.
   image_2:
