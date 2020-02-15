@@ -4,13 +4,9 @@ title: Campaign for John!
 permalink: "/campaign"
 date: 2020-02-10T00:42:00.000+00:00
 page_sections:
-- template: navigation-header-w-button
-  block: header-2
+- template: navigation-header
+  block: header-1
   logo: "/uploads/2020/02/09/Untitled 2.001.png"
-  cta:
-    url: instagram.com/norombabajd
-    button_text: Watch the Announcement!
-  navigation: []
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
