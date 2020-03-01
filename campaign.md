@@ -2,7 +2,7 @@
 layout: blocks
 title: Campaign for John!
 permalink: "/campaign"
-date: 2020-02-10T00:42:00.000+00:00
+date: 2020-02-29 08:00:00 +0000
 page_sections:
 - template: navigation-header
   block: header-1
@@ -66,11 +66,27 @@ page_sections:
 - template: 2-column-media-element
   block: media-2
   image_1:
-    image: "/uploads/2020/02/10/savetherallies.jpeg"
-    caption: He’s not just saving the turtles, he’s saving the rallies.
+    image: "/uploads/2020/03/01/marathon.jpeg"
+    caption: Maybe he can't run the Boston Marathon, but at least he can run a rally.
   image_2:
-    image: "/uploads/2020/02/10/arallyicon.jpeg"
-    caption: John Daniel is not only a fashion icon, he’s your rally icon.
+    image: "/uploads/2020/03/01/anywhereanytime.jpeg"
+    caption: Energy that can be taken anywhere, anytime, and any place.
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2020/03/01/proofintherally.jpeg"
+    caption: The proof isn't just in the pudding, it's in his rally-pre plans.
+  image_2:
+    image: "/uploads/2020/03/01/fingersforfrontier.jpeg"
+    caption: My fingers may be crooked, but my spirit is forever fixed on Frontier!
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2020/03/01/cooksralliesandsoup.jpeg"
+    caption: John Daniel can cook soup, and he can cook up a good rally.
+  image_2:
+    image: "/uploads/2020/03/01/handleschemicals.jpeg"
+    caption: John Daniel can handle rallies, as much as he can handle chemicals.
 - template: 2-column-media-element
   block: media-2
   image_1:
@@ -82,11 +98,20 @@ page_sections:
 - template: 2-column-media-element
   block: media-2
   image_1:
-    image: "/uploads/2020/02/10/onlyjohndaniel.jpeg"
-    caption: It doesn’t take a doctor to plan a rally, it only takes John Daniel.
+    image: "/uploads/2020/02/10/savetherallies.jpeg"
+    caption: He’s not just saving the turtles, he’s saving the rallies.
   image_2:
-    image: "/uploads/2020/02/10/typethetype.jpeg"
-    caption: 'I don’t just talk the talk, I type the type (the rallies up). '
+    image: "/uploads/2020/02/10/arallyicon.jpeg"
+    caption: John Daniel is not only a fashion icon, he’s your rally icon.
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2020/03/01/nomattertheweave.jpeg"
+    caption: No matter the weave, he's got the energy the rallies really need.
+  image_2:
+    image: "/uploads/2020/03/01/kidsandrallies.jpeg"
+    caption: Taking care of kids, and taking care of the rallies. John Daniel can
+      do it all!
 - template: 2-column-media-element
   block: media-2
   image_1:
@@ -95,6 +120,14 @@ page_sections:
   image_2:
     image: "/uploads/2020/02/10/energylikeanled.jpeg"
     caption: Energy like an LED Light Bulb, Can Last Longer than a Year.
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2020/02/10/onlyjohndaniel.jpeg"
+    caption: It doesn’t take a doctor to plan a rally, it only takes John Daniel.
+  image_2:
+    image: "/uploads/2020/02/10/typethetype.jpeg"
+    caption: 'I don’t just talk the talk, I type the type (the rallies up). '
 - template: content-feature
   block: feature-1
   media_alignment: Right
