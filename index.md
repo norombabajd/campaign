@@ -11,8 +11,8 @@ page_sections:
   block: hero-2
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
   image:
-    image: "/uploads/2020/02/08/thumbsup.png"
-    alt_text: John Daniel giving a thumbs up.
+    image: "/uploads/2020/04/14/burger.png"
+    alt_text: John Daniel just vibing.
   content: It's me, John Daniel Norombaba. The most consistent, organized, and yet
     chaotic spirit on Frontier's campus. I'm running again for rally commissioner
     because, I want to keep delivering rallies <em>with more energy than nuclear power
@@ -24,8 +24,8 @@ page_sections:
     url: https://votejohndaniel.com/campaign
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2020/02/08/winterrally.jpg"
-  caption: An unstoppable duo.
+  image: "/uploads/2020/04/14/personas.jpg"
+  caption: He's always there for you no matter the club, shirt, or glasses.
 - template: content-feature
   block: feature-1
   media_alignment: Left
