@@ -13,11 +13,12 @@ page_sections:
   image:
     image: "/uploads/2020/04/14/burger.png"
     alt_text: John Daniel just vibing.
-  content: It's me, John Daniel Norombaba. The most consistent, organized, and yet
+  content: Hello! I'm John Daniel Norombaba, the most consistent, organized, and yet
     chaotic spirit on Frontier's campus. I'm running again for rally commissioner
-    because, I want to keep delivering rallies <em>with more energy than nuclear power
-    plants.</em> That's not rocket science, that's a John Daniel guarantee!
-  headline: "<strong>John Daniel is running for Rally Commissioner (again).</strong>"
+    (again!) because, I can make the best rallies ever, and deliver the best rallies
+    ever. <em>At home or on campus! </em>
+  headline: "<strong>John Daniel for Rally Commissioner, John Daniel's voters for
+    Social Distancing.</strong>"
   cta:
     enabled: true
     button_text: Campaign for John Daniel!
