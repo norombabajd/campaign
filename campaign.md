@@ -2,7 +2,7 @@
 layout: blocks
 title: Campaign for John!
 permalink: "/campaign"
-date: 2020-02-29 08:00:00 +0000
+date: 2020-02-29T08:00:00.000+00:00
 page_sections:
 - template: navigation-header
   block: header-1
@@ -14,10 +14,10 @@ page_sections:
     image: "/uploads/2020/02/10/takeaphoto.001.png"
     alt_text: John Daniel taking a photo with his phone case
   content: Rallies deserve to stay hyped, that's not rocket science, that's a John
-    Daniel guarantee. Take a look at the ad gallery, and feel free to post your favorite
-    one. <a href="https://votejohndaniel.com/throwback" title="Looking for the old
-    ones?">Looking for the old ones?</a>
-  headline: "<strong>Save a photo, post a photo!</strong>"
+    Daniel guarantee. Each "John Daniel for Rally Commissioner" ad has been modified
+    to include guidance on preventing the spread of COVID-2019 for the safety of you
+    and the platforms you intend to post these on.
+  headline: "<strong>Don't just campaign, spread the word.</strong>"
   cta:
     enabled: true
     button_text: Go Back to the Homepage!
@@ -112,14 +112,6 @@ page_sections:
     image: "/uploads/2020/03/01/kidsandrallies.jpeg"
     caption: Taking care of kids, and taking care of the rallies. John Daniel can
       do it all!
-- template: 2-column-media-element
-  block: media-2
-  image_1:
-    image: "/uploads/2020/02/10/lightmodeburns.jpeg"
-    caption: Being in Light Mode Burns as Much as not Voting for John Daniel.
-  image_2:
-    image: "/uploads/2020/02/10/energylikeanled.jpeg"
-    caption: Energy like an LED Light Bulb, Can Last Longer than a Year.
 - template: 2-column-media-element
   block: media-2
   image_1:
