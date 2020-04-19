@@ -41,8 +41,10 @@ page_sections:
     alt_text: Screenshot of Rally Packet
 - template: simple-footer
   block: footer-1
-  content: <strong>Paid for by the John Daniel Election Committee<br><em>(but in reality,
-    it's just John Daniel)<br></em></strong><a href="https://norombabajd.com" title="norombabajd.com">norombabajd.com</a>
+  content: <strong>John Daniel's running for Frontier's ASB Rally Commissioner, and
+    he's also telling you to wash your hands. Keep up to date with him at </strong><a
+    href="https://norombabajd.com" title="norombabajd.com"><strong>norombabajd.com</strong></a><strong>
+    and COVID-19 advice at </strong><a href="https://coronavirus.gov" title="coronavirus.gov"><strong>coronavirus.gov</strong></a><strong>.</strong>
 
 ---
 foo bar
